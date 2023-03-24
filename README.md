@@ -8,7 +8,7 @@
 <p>Atualmente, muitas empresas e escritórios já utilizam as redes sociais para criar conteúdo e desenvolver um contato mais direto e humanizado com seus clientes e utilizar uma página de links personalizada é um ótimo diferencial para se destacar no mercado.</p>
 <h2>Design do Projeto</h2>
 <p>O design do projeto foi totalmente desenvolvido utilizando as ferramentas disponibilizadas pelo <strong>figma</strong>, desde o layout moderno e limpo até a disposição dos ítens utilizando conceitos de design avançado como grid-mobile (10 colunas vertical - 5 colunas horizontal).</p>
-<img src='./arqdecor/src/img/figma.jpg'/>
+<img src='./arqdecor/src/img/figma.gif'/>
 <h2>Softskills Desenvolvidas</h2>
 <ul>
     <li>Organização e versionamento de Código</li>
@@ -18,12 +18,14 @@
     <li>Conversação e ajustes junto ao cliente</li>
 </ul>
 <h2>Tecnologias Utilizadas</h2>
-<img src='./arqdecor/src/img/html-5.png' style="width: 50px"/>
-<img src='./arqdecor/src/img/css-3.png' style="width: 50px"/>
-<img src='./arqdecor/src/img/js.png' style="width: 50px"/>
-<img src='./arqdecor/src/img/react.png' style="width: 50px"/>
-<img src='./arqdecor/src/img/figma.png' style="width: 50px"/>
-<img src='./arqdecor/src/img/github.png' style="width: 50px"/>
+<div>
+    <img src='./arqdecor/src/img/html-5.png' style="width: 50px"/>
+    <img src='./arqdecor/src/img/css-3.png' style="width: 50px"/>
+    <img src='./arqdecor/src/img/js.png' style="width: 50px"/>
+    <img src='./arqdecor/src/img/react.png' style="width: 50px"/>
+    <img src='./arqdecor/src/img/figma.png' style="width: 50px"/>
+    <img src='./arqdecor/src/img/github.png' style="width: 50px"/>
+</div>
 <h2>Protótipo</h2>
 <p>Acesse o protótipo no figma através deste <a href='https://www.figma.com/file/cYjVYcwnKrpMSEnVgpjf1r/P%C3%A1gina-de-Links---ArqDecor?t=vURUqt857VEizeLs-0'>link</a>.</p>
 <h2>Versão Final</h2>
