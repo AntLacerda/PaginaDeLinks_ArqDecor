@@ -2,6 +2,7 @@ import React from 'react';
 import '../CSS/Box.css';
 import Logotipo from '../img/logotipo.jpg';
 import Botao from './Botao';
+import Rodape from './Footer';
 
 function Corpo() {
     return (
@@ -18,6 +19,9 @@ function Corpo() {
                     <Botao texto='Entre em contato' link='#'/>
                     <Botao texto='Carta de serviços' link='#'/>
                     <Botao texto='Briefing de ideias' link='#'/>
+                </div>
+                <div className='alin_footer'>
+                    <Rodape/>
                 </div>
             </div>
         </div>
