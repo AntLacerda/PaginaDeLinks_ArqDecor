@@ -13,7 +13,7 @@ h2, p {
     position: absolute;
     border-radius: 30px;
     width: 100%;
-    height: 100%;
+    height: 90vh;
     top: 50px;
 }
 

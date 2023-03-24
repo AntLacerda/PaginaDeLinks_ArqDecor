@@ -4,9 +4,9 @@ import '../CSS/Header.css';
 
 function Header() {
     return (
-        <header>
+        <div>
             <img src={Banner} className='banner'/>
-        </header>
+        </div>
     )
 }
 

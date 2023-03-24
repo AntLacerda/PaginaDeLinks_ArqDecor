@@ -1,10 +1,11 @@
 import React from 'react';
 import '../CSS/Box.css';
-import Logotipo from '../img/logotipo.jpg'
+import Logotipo from '../img/logotipo.jpg';
+import Botao from './Botao';
 
 function Corpo() {
     return (
-        <main>
+        <div>
             <div className='box'>
                 <div className='div_img'>
                     <img src={Logotipo}/>
@@ -13,8 +14,13 @@ function Corpo() {
                     <h2>Escritório de Arquitetura e Urbanismo</h2>
                     <p>Construindo novos conceitos de arquitetura à decoração.</p>
                 </div>
+                <div className='alin_botoes'>
+                    <Botao texto='Entre em contato' link='#'/>
+                    <Botao texto='Carta de serviços' link='#'/>
+                    <Botao texto='Briefing de ideias' link='#'/>
+                </div>
             </div>
-        </main>
+        </div>
     )
 }
 
