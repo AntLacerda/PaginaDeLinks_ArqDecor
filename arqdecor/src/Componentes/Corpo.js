@@ -16,9 +16,9 @@ function Corpo() {
                     <p>Construindo novos conceitos de arquitetura à decoração.</p>
                 </div>
                 <div className='alin_botoes'>
-                    <Botao texto='Entre em contato' link='#'/>
-                    <Botao texto='Carta de serviços' link='#'/>
                     <Botao texto='Briefing de ideias' link='#'/>
+                    <Botao texto='Carta de serviços' link='#'/>
+                    <Botao texto='Entre em contato' link='#'/>
                 </div>
                 <div className='alin_footer'>
                     <Rodape/>
