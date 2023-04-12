@@ -1,4 +1,4 @@
-<img src='./arqdecor/src/img/banner.jpg'>
+<img src='./src/img/banner.jpg'>
 <h1>Página de Links - ArqDecor - Escritório de Arquitetura e Design</h1>
 <hr>
 <p>Este repositório foi desenvolvido para armazenar o projeto criado para um escritório de Arquitetura e Design, ArqDecor.</p>
@@ -19,12 +19,12 @@
 </ul>
 <h2>Tecnologias Utilizadas</h2>
 <div>
-    <img src='./arqdecor/src/img/html-5.png' style="width: 50px"/>
-    <img src='./arqdecor/src/img/css-3.png' style="width: 50px"/>
-    <img src='./arqdecor/src/img/js.png' style="width: 50px"/>
-    <img src='./arqdecor/src/img/react.png' style="width: 50px"/>
-    <img src='./arqdecor/src/img/figma.png' style="width: 50px"/>
-    <img src='./arqdecor/src/img/github.png' style="width: 50px"/>
+    <img src='./src/img/html-5.png' style="width: 50px"/>
+    <img src='./src/img/css-3.png' style="width: 50px"/>
+    <img src='./src/img/js.png' style="width: 50px"/>
+    <img src='./src/img/react.png' style="width: 50px"/>
+    <img src='./src/img/figma.png' style="width: 50px"/>
+    <img src='./src/img/github.png' style="width: 50px"/>
 </div>
 <h2>Protótipo</h2>
 <p>Acesse o protótipo no figma através deste <a href='https://www.figma.com/file/cYjVYcwnKrpMSEnVgpjf1r/P%C3%A1gina-de-Links---ArqDecor?t=vURUqt857VEizeLs-0'>link</a>.</p>
