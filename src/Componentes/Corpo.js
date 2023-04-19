@@ -18,7 +18,7 @@ function Corpo() {
                 <div className='alin_botoes'>
                     <Botao texto='WhatsApp' link='https://encurtador.com.br/vBSZ3'/>
                     <Botao texto='Instagram' link='#https://www.instagram.com/dearqadeco/'/>
-                    <Botao texto='Carta de serviços' link='#'/>
+                    <Botao texto='Carta de serviços' link='https://drive.google.com/file/d/1f0j3IjoTmwI3J4Cvn5zEO2GYafZwUteq/view?usp=share_link'/>
                 </div>
                 <div className='alin_footer'>
                     <Rodape/>
