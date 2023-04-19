@@ -16,9 +16,9 @@ function Corpo() {
                     <p>Construindo novos conceitos de arquitetura à decoração.</p>
                 </div>
                 <div className='alin_botoes'>
-                    <Botao texto='Briefing de ideias' link='#'/>
+                    <Botao texto='WhatsApp' link='https://encurtador.com.br/vBSZ3'/>
+                    <Botao texto='Instagram' link='#https://www.instagram.com/dearqadeco/'/>
                     <Botao texto='Carta de serviços' link='#'/>
-                    <Botao texto='Entre em contato' link='#'/>
                 </div>
                 <div className='alin_footer'>
                     <Rodape/>
