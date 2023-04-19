@@ -4,7 +4,7 @@ import '../CSS/Botao.css';
 function Botao(props) {
     return (
         <div>
-            <div className='botao'><a href=''>{props.texto}</a></div>
+            <a href={props.link}><div className='botao'>{props.texto}</div></a>
         </div>
     )
 }
