@@ -5,6 +5,10 @@
     margin-top: 50px;
 }
 
+.links {
+    text-decoration: none;
+}
+
 .botao {
     padding: 14px 53px;
     background-color: #798D74;
